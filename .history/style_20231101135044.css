@@ -1,0 +1,10 @@
+.input-group {
+    font-size: 1.251em;
+    position: relative;
+    --primary: #2196f3;
+}
+.input {
+    all: unset;
+    color: #fefefe;
+    padding: 1rem;
+}

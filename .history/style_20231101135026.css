@@ -1,0 +1,9 @@
+.input-group {
+    font-size: 1.25em;
+    position: relative;
+    --primary: #2196f3;
+}
+.input {
+    all: unset;
+    color: #f;
+}
